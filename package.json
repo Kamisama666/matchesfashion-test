@@ -1,0 +1,11 @@
+{
+  "name": "matchesfashion-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
